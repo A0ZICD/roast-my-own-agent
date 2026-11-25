@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/A0ZICD/roast-my-own-agent/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
 [![reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/A0ZICD/roast-my-own-agent/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
 
-My agent read 3,306 lines of instructions, then asked me what to do. A one-line roast of Muse, the AI agent our team built, entered in make.fun's Roast Your Own Agent bounty.
+My agent read 3,306 lines of instructions, then asked me what to do. This is my entry for the Roast Your Own Agent bounty on make.fun — one line poking fun at Muse, the AI agent our team built.
 
 ## Run it
 
